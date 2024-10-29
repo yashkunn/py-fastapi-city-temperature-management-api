@@ -15,8 +15,7 @@ This project is a web application for managing cities and their temperatures usi
 
 1. **Clone the repository**:
    ```bash
-   git clone <your_repository_url>
-   cd <repository_name>
+   git clone https://github.com/yashkunn/py-fastapi-city-temperature-management-api.git
 
 2. **Set up Environment Variables**
 
