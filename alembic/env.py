@@ -1,7 +1,5 @@
 from logging.config import fileConfig
-
-# from sqlalchemy import engine_from_config
-# from sqlalchemy import pool
+pool
 
 from alembic import context
 from src.database.session import engine_sync
