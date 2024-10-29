@@ -1,5 +1,5 @@
 from logging.config import fileConfig
-pool
+
 
 from alembic import context
 from src.database.session import engine_sync
