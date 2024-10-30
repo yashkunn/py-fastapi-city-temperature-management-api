@@ -22,7 +22,16 @@ This project is a web application for managing cities and their temperatures usi
    Create a `.env` file in the root of the project and add your API key for the Weather API:
 
    ```plaintext
-   API_KEY=your_weather_api_key
+   POSTGRES_DB=
+   POSTGRES_DB_PORT=
+   POSTGRES_USER=
+   POSTGRES_PASSWORD=
+   POSTGRES_HOST=
+
+   PGADMIN_DEFAULT_EMAIL=
+   PGADMIN_DEFAULT_PASSWORD=
+
+   API_KEY=
    ```
 3. **Run with Docker Compose**
 
